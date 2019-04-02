@@ -24,7 +24,7 @@ cd flask_system_reboot_service/
 ```
 6. Create a config.txt file using the config.example.txt file and put your credentials as required in the newly created config.txt file
 ```
-mv config.example.txt config.txt
+cp config.example.txt config.txt
 ```
 7. Inside your virtual environment, install the required python modules and packages using the requirements.txt file
 ```
