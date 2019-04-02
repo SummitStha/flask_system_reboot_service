@@ -36,3 +36,6 @@ python boot.py
 ```
 
 9. Open a browser of your choice and navigate to http://localhost:5000
+
+## NOTE
+The reboot script used here only works for Linux distros for the time being.
