@@ -10,4 +10,4 @@ __ pycache __
 **/migrations/**
 !**/migrations
 !**/migrations/__init__.py
-
+config.txt
